@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581119365449",
+    "project_id": "barraapp-71f93",
+    "storage_bucket": "barraapp-71f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581119365449:android:012f7e7bfd1824e78f0a98",
+        "android_client_info": {
+          "package_name": "vcom.example.mybarraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581119365449-sq80f446a5dim8g5popg6t2an7lm520a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADoy_Fz7MKHTgq4Bz34r79mXE4ss70Qbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581119365449-sq80f446a5dim8g5popg6t2an7lm520a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
